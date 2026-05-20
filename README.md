@@ -1,4 +1,5 @@
 Project Title: Side Quest Week 2
+
 Setup and Interaction Instructions
 
 To run the sketch locally, open `index.html` in Google Chrome using Live Server.
